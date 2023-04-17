@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![logo](https://github.com/kumarprem66/kumarprem66.github.io/blob/main/prem_kumarJAVA_Developer%20(1).png)
 <h1 align="center">Hi 👋, I'm Prem kumar</h1>
