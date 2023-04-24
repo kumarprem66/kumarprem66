@@ -24,7 +24,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <h2>Portfolio</h2>
-<a href = "https://kumarprem66.github.io/" target = "blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg](https://png.pngtree.com/png-vector/20190226/ourmid/pngtree-vector-portfolio-icon-png-image_705750.jpg)" alt="kumarprem" height="30" width="40" /></a>
+<a href = "https://kumarprem66.github.io/" target = "blank"><img align="center" src="https://w7.pngwing.com/pngs/202/640/png-transparent-bitcoin-cryptocurrency-logo-lighting-career-portfolio-portfolio-light-fixture-building-text-thumbnail.png" alt="kumarprem" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/kumarprem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kumarprem" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@premstart10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@premstart10" height="30" width="40" /></a>
 </p>
