@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JBlDoXxAZuX2nRA-VwA2UzlJNyCsH-Na/view?usp=sharing](https://drive.google.com/file/d/1JBlDoXxAZuX2nRA-VwA2UzlJNyCsH-Na/view?usp=sharing)
 
-- ⚡ Fun fact **I am Sleepy😃**
+- ⚡ Fun fact **I am Genius😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
