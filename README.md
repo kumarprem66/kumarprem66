@@ -2,7 +2,7 @@
 # 💫 About Me:
 Currently studying at masai school
 # 💫 Portfolio link
-![portfolio](https://kumarprem66.github.io/)
+[portfolio](https://kumarprem66.github.io/)
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
