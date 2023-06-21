@@ -4,9 +4,11 @@
 
 <h1 align="center">Hi 👋, I'm Prem kumar</h1>
 <h3 align="center">A Problem Solver Java developer from India</h3>
-# 💫 Portfolio link
+# 💫 Portfolio and Linkedin link
 
 [portfolio](https://kumarprem66.github.io/)
+
+[linkedin](https://www.linkedin.com/in/prem-kumar-a160b2272/)
 
 
 <img align="right" alt="coding" width = "400" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
@@ -27,7 +29,7 @@
 
 - ⚡ Fun fact **I am Genius😃**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Some profiles</h3>
 <p align="left">
 
 <a href = "https://hilarious-paletas-83ff8b.netlify.app/" target = "blank"><img align="center" src="https://w7.pngwing.com/pngs/202/640/png-transparent-bitcoin-cryptocurrency-logo-lighting-career-portfolio-portfolio-light-fixture-building-text-thumbnail.png" alt="kumarprem" height="30" width="40" /></a>
