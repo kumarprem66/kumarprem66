@@ -8,7 +8,7 @@
 
 [portfolio](https://kumarprem66.github.io/)
 
-[linkedin](https://www.linkedin.com/in/prem-kumar-a160b2272/)
+[linkedin](https://www.linkedin.com/in/prem-kumar-7176aa215/)
 
 
 <img align="right" alt="coding" width = "400" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
