@@ -24,9 +24,6 @@
 
 - 📫 How to reach me **premstart10@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1JBlDoXxAZuX2nRA-VwA2UzlJNyCsH-Na/view?usp=sharing](https://drive.google.com/file/d/1JBlDoXxAZuX2nRA-VwA2UzlJNyCsH-Na/view?usp=sharing](https://drive.google.com/file/d/1GWcEvoHK1-wVxtWtrXBveaJj7IRm62YB/view?usp=sharing))
-
-
 - ⚡ Fun fact **I am Genius😃**
 
 <h3 align="left">Some profiles</h3>
