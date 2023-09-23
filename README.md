@@ -1,6 +1,6 @@
 ![logo](https://github.com/kumarprem66/kumarprem66/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
-<h3 align="center">A passionate Java developer from India</h3>
+<!-- <h3 align="center">A passionate Java developer from India</h3> -->
 <h3 align="center">Talented Java backend developer with expertise in crafting
 robust solutions and collaborating with cross-functional teams.
 Proficient in Java, Spring Boot, MySQL and Prompt Engineering.
