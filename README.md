@@ -1,9 +1,18 @@
+![logo](https://github.com/kumarprem66/kumarprem66.github.io/blob/main/prem_kumarJAVA_Developer%20(1).png)
 <h1 align="center">Hi 👋, I'm Prem Kumar</h1>
 <h3 align="center">A passionate Java developer from India</h3>
+<h3 align="center">Talented Java backend developer with expertise in crafting
+robust solutions and collaborating with cross-functional teams.
+Proficient in Java, Spring Boot, MySQL and Prompt Engineering.
+Strong problem-solving skills, adaptability, and effective
+communication. A proactive and self-motivated team player.</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumarprem66&label=Profile%20views&color=0e75b6&style=flat" alt="kumarprem66" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kumarprem66" alt="kumarprem66" /></a> </p>
+
+<img align="right" alt="coding" width = "400" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
 
 - 🔭 I’m currently working on [Sparleom](https://github.com/kumarprem66/sparleom)
 
