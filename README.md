@@ -17,7 +17,7 @@ communication. A proactive and self-motivated team player.</h3>
 
 - 🔭 I’m currently working on [MasaiSchoolClone](https://github.com/kumarprem66/MasaiSchoolClone)
 
-- 🌱 I’m currently learning **Achynchronous Programming**
+- 🌱 I’m currently learning **SpringBoot Testing**
 
 - 👨‍💻 All of my projects are available at [https://kumarprem66.github.io/](https://kumarprem66.github.io/)
 
