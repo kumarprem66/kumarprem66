@@ -44,4 +44,4 @@ communication. A proactive and self-motivated team player.</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumarprem66&show_icons=true&locale=en" alt="kumarprem66" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarprem66&" alt="kumarprem66" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumarprem66&" alt="kumarprem" /></p>
