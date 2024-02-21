@@ -15,9 +15,7 @@ communication. A proactive and self-motivated team player.</h3>
 
 <img align="right" alt="coding" width = "400" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY">
 
-- 🔭 I’m currently working on [MasaiSchoolClone](https://github.com/kumarprem66/MasaiSchoolClone)
-
-- 🌱 I’m currently learning **SpringBoot Testing**
+- 🌱 I’m currently learning **Testing in SpringBoot and Multithreading**
 
 - 👨‍💻 All of my projects are available at [https://kumarprem66.github.io/](https://kumarprem66.github.io/)
 
